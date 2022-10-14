@@ -99,8 +99,8 @@ namespace MyApp
             Console.WriteLine($"Arquivo {path} salvo com sucesso!! ");
             Console.WriteLine("");
             Console.WriteLine("-------------------------------------");
-            Console.ReadLine();
 
+            Console.ReadLine();
             Menu();
 
         }
